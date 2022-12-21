@@ -1,1 +1,1 @@
-# Zomato-sales-data-snalysis
+# Zomato-sales-data-analysis
