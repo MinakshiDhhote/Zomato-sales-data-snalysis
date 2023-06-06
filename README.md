@@ -1,4 +1,5 @@
 # Zomato-sales-data-analysis
+![image](https://github.com/MinakshiDhhote/Zomato-sales-data-snalysis/assets/116186767/fa7d8711-f966-40c0-b8b6-6656737c4892)
 
 This repository contains an Exploratory Data Analysis (EDA) on the Zomato dataset, which contains information about restaurants, their ratings, and customer reviews in India. The dataset was obtained from Kaggle and contains data from various cities in India.
 As the demand for restaurant food in Bengaluru continues to increase, it has become increasingly difficult for new establishments to compete with established ones. This project aims to explore the factors that affect the establishment of different types of restaurants in Bengaluru, and to provide insights on the popular cuisines and locations for restaurant-goers in the city.
